@@ -1,0 +1,9 @@
+[submodule "HW2/OpenCV2-Python-Tutorials"]
+	path = HW2/OpenCV2-Python-Tutorials
+	url = https://github.com/abidrahmank/OpenCV2-Python-Tutorials.git
+[submodule "HW2/opencv"]
+	path = HW2/opencv
+	url = https://github.com/Itseez/opencv.git
+[submodule "HW2/RANdom-Sampling-And-Consensus"]
+	path = HW2/RANdom-Sampling-And-Consensus
+	url = https://github.com/Jai-Chaudhary/RANdom-Sampling-And-Consensus.git
